@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddb910b9-a8fc-458c-8ba7-dd386d94f7bf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Algorithms.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/random/FindTriplet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/random/FindTriplet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/random/TwoPointer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/random/TwoPointer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/scDojo/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/scDojo/Factorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/scDojo/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/scDojo/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/scDojo/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/scDojo/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/searchAndSorting/LinearSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/searchAndSorting/LinearSearch.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,16 +39,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1gJU4GHcFy4V79Q3aQhCJQXZ5uM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -49,26 +54,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.FindTriplet">
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scDojo.Factorial" />
-      <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="scDojo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SmallestPositiveIntegerInArray">
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="scDojo.Fibonacci" />
       <module name="Algorithms" />
@@ -95,12 +89,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Node" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scDojo.Node" />
+    <configuration name="FirstAndLastOccurance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rafay.FirstAndLastOccurance" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scDojo.*" />
+          <option name="PATTERN" value="rafay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallestPositiveIntegerInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="random.SmallestPositiveIntegerInArray" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="random.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SmallestPositiveIntegerInArray" />
         <item itemvalue="Application.FindTriplet" />
+        <item itemvalue="Application.FirstAndLastOccurance" />
         <item itemvalue="Application.TwoPointer" />
         <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.Node" />
       </list>
     </recent_temporary>
   </component>
